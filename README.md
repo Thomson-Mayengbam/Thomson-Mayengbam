@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on classifying malignant bress cancer project
+- 🔭 I’m currently working on classifying malignant breast cancer project
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on ML projects
 - 🤔 I’m looking for help with openCV
